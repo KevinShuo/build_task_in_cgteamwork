@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/envs/build_task_in_cgteamwork/Lib/site-packages" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/envs/build_task_in_cgteamwork" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (build_task_in_cgteamwork)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
